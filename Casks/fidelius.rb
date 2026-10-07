@@ -1,6 +1,6 @@
 cask "fidelius" do
-  version "1.0.2"
-  sha256 "b429c139fb253ae5491ae15fdd0bbec094de70258e4e53d7090350105bbb87c9"
+  version "1.0.3"
+  sha256 "45c46d3c0c36d82b5c830cba30be2c274b1d59b421896816387607ee7394eaa2"
 
   url "https://downloads.blisslabs.dev/fidelius/Fidelius-#{version}.dmg"
   name "Fidelius"
